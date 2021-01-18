@@ -1,0 +1,12 @@
+example-card {
+  max-width: 400px;
+}
+
+.example-header-image {
+  background-image: url('https://udteparinde.com/wp-content/uploads/2017/10/15220006_1341441115866268_77227402606596563_n.jpg');
+  background-size: cover;
+}
+.bhopal-img{
+  height: 200px;
+  width: 200px;
+}
